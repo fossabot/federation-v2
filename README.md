@@ -1,4 +1,6 @@
 ## Kubernetes Federation v2
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpmorie%2Ffederation-v2.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpmorie%2Ffederation-v2?ref=badge_shield)
+
 
 This repo contains an in-progress prototype of some of the
 foundational aspects of V2 of Kubernetes Federation.  The prototype
@@ -121,3 +123,7 @@ the components involved in the test:
 ``
 cd test/integration && dlv test -- -test.run ^TestCrud$
 ``
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpmorie%2Ffederation-v2.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpmorie%2Ffederation-v2?ref=badge_large)
